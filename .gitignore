@@ -1,0 +1,11 @@
+node_modules
+.idea
+.vs
+Cooked
+Crashes
+Logs
+**/Binaries/
+*/Build/
+*/DerivedDataCache/
+**/Intermediate/
+**/Saved/
